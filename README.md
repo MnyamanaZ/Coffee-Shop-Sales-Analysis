@@ -16,3 +16,31 @@ Tools Used:
 - Miro – for outlining the project methodology
 - Canva – for building a business-style presentation
 - GitHub – for structuring, storing, and documenting the entire project
+
+Repository Structure
+Coffee-Shop-Sales-Analysis/
+│
+├── Data/                   # Raw and cleaned data
+│   ├── Bright Coffee Shop Analysis.csv
+│   ├── Bright Coffee Shop Analysis.xlsx.csv
+|
+├── SQL Code/               # Snowflake SQL queries
+│   ├── Script
+│
+├── Documents/               # case study, Miro export
+│   ├── Case Study.pdf
+│   ├── Coffee Shop Sales Analysis Mind Map.jpg
+│
+├── Pivot Tables/            # Pivot table analysis in Excel
+│   └── Coffee Shop Sales Analysis Pivot Table.xlsx
+│
+├── Presentation/           # Final business-style presentation
+│   ├── Coffee Shop Sales Analysis presentation.pptx
+│   └──	Coffee Shop Sales Analysis Slides.zip and PDF                                                                                                                                                          
+
+Key Insights & Learnings:
+
+- Some stores had significantly higher morning revenue — potential for breakfast promotions
+- Certain products performed well only in specific locations for example Barista expresso performed well in Astoria — a chance for localized marketing
+- The sales drop during mid-day hours revealed gaps in lunch offerings
+- SQL filtering helped isolate high-value orders and drive recommendations                                                                                                                                                        
