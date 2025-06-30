@@ -20,10 +20,15 @@ Tools Used:
 Project Structure
 
 My work is saved in folders,below is a breakdown for each folder under the Coffee-Shop-Sales-Analysis Repository:
+
 DATA :Raw and Cleaned data
+
 SQL CODE :Snowflake scrip
+
 DOCUMENTS:Case study and Miro Plan
-Pivot Tables: Pivot table analysis in excel
+
+PIVOT TABLES: Pivot table analysis in excel
+
 PRESENTATION: Is in three formats power point, png slides and pdf                                                                                                                                        
 
 Key Insights & Learnings:
