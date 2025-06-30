@@ -25,7 +25,7 @@ DATA :Raw and Cleaned data
 
 SQL CODE :Snowflake scrip
 
-DOCUMENTS:Case study and Miro Plan
+DOCUMENTS:Case study, Miro Plan and Methodology
 
 PIVOT TABLES: Pivot table analysis in excel
 
