@@ -23,7 +23,7 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 
 DATA :Raw and Cleaned data
 
-SQL CODE :Snowflake scrip
+SQL CODE :Snowflake script
 
 DOCUMENTS:Case study, Miro Plan and Methodology
 
