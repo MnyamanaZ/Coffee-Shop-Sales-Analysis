@@ -33,7 +33,7 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 
 [PRESENTATION](./Presentation/): Is in two formats png slides and pdf     
 
-**Recommendation**
+**Recommendations**
 
 **Hell’s Kitchen**: has high revenue, we should try and adopt its strategy and make sure that our customer service remains excellent also monitor customer feedback to keep the store’s revenue growing.
 
