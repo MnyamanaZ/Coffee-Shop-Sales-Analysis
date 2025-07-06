@@ -23,11 +23,11 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 
 **NB**: You can click on the folder name to access the folder.
 
-[DATA](./Data/) :Raw and Cleaned data
+[DATA](./Data/) : Raw and Cleaned data
 
 [SQL CODE](./SQL%20Code/) : Snowflake script
 
-[DOCUMENTS](./Documents/):Case study, Miro Plan and Methodology
+[DOCUMENTS](./Documents/): Case study, Miro Plan and Methodology
 
 [PIVOT TABLES](./Pivot%20Tables/): Pivot table analysis in excel
 
