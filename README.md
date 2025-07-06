@@ -46,6 +46,6 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 
 **Barista Espresso**: Is our top selling product, we must make sure that we have enough stock and ensure marketing support so that its sales continue to increase.
 
-**Astoria**: Pride itself by brewed chai tea and dark chocolate, we could explore customer preference and see if we can make promotions on other products to increase their sales.
+**Astoria**: Pride itself by brewed chai tea and dark chocolate, we could explore localized marketing strategies tailored  for that region. We could also run promotions on other products to increase their sales.
 
 **Seasonality**: Seasons like summer affect our sales as we have seen on our graph that Jan and February sales are very low, we could build marketing strategies to avoid these dips in our sales.
