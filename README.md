@@ -19,55 +19,17 @@ This repository is a complete case study submission for my data analytics learni
 
 **Project Structure**
 
-Coffee-Shop-Sales-Analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── raw_data/
-│   │   └── original_dataset.csv
-│   └── cleaned_data/
-│       └── cleaned_sales_data.csv
-│
-├── sql-code/
-│   ├── data_cleaning.sql
-│   ├── sales_queries.sql
-│   └── category_analysis.sql
-│
-├── documents/
-│   ├── case-study.pdf
-│   ├── miro-plan.pdf
-│   └── methodology.pdf
-│
-├── pivot-tables/
-│   ├── store_sales_analysis.xlsx
-│   └── category_trends_pivot.xlsx
-│
-├── presentation/
-│   ├── coffee-sales-presentation.pptx
-│   ├── coffee-sales-presentation.pdf
-│   └── coffee-sales-slides/
-│       ├── slide1.png
-│       ├── slide2.png
-│       └── ...
-│
-└── images/  (optional)
-    ├── dashboard_sample.png
-    └── bar_chart.png
-
-
 My work is saved in folders,below is a breakdown for each folder under the Coffee-Shop-Sales-Analysis Repository:
 
 [DATA](./Data/) :Raw and Cleaned data
 
-SQL CODE :Snowflake script
+[SQL CODE](./SQL%20Code/) : Snowflake script
 
-DOCUMENTS:Case study, Miro Plan and Methodology
+[DOCUMENTS](./Documents/):Case study, Miro Plan and Methodology
 
-PIVOT TABLES: Pivot table analysis in excel
+[PIVOT TABLES](./Pivot%20Tables/): Pivot table analysis in excel
 
-
-PRESENTATION: Is in three formats power point, png slides and pdf     
+[PRESENTATION](./Presentation/): Is in two formats png slides and pdf     
 
 **Recommendation**
 
