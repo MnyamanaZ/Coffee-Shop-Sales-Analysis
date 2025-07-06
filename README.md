@@ -20,6 +20,7 @@ This repository is a complete case study submission for my data analytics learni
 **Project Structure**
 
 My work is saved in folders,below is a breakdown for each folder under the Coffee-Shop-Sales-Analysis Repository:
+**NB**: You can click on the folder name to access the folder.
 
 [DATA](./Data/) :Raw and Cleaned data
 
