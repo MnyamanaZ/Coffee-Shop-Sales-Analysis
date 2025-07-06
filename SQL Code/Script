@@ -1,6 +1,3 @@
-SELECT MIN(transaction_time)
-FROM CASESTUDY1.COFFEE_SHOP.SALES;
-
 SELECT MAX(transaction_time)
 FROM CASESTUDY1.COFFEE_SHOP.SALES;
 
@@ -23,6 +20,12 @@ SUM(transaction_qty)AS number_of_units_sold,
         WHEN transaction_time BETWEEN TIME '17:00:00' AND TIME '19:59:59' THEN 'Evening'
         ELSE 'Night'
     END AS time_bucket,
+    CASE 
+    WHEN total_revenue BETWEEN 0 AND 10 THEN 'Low'
+    WHEN total_revenue BETWEEN 11 AND 49 THEN 'Medium'
+ELSE 'High'
+END AS spender_bucket,
+
      -- GROUPS
     transaction_date,
     product_category,
