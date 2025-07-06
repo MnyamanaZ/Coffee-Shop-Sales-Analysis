@@ -31,8 +31,8 @@ PIVOT TABLES: Pivot table analysis in excel
 
 PRESENTATION: Is in three formats power point, png slides and pdf                                                                                                                                        
 
-Key Insights & Learnings:
-
-- Our stores has significantly higher morning revenue — potential for breakfast promotions
-- Certain products performed well only in specific locations for example Barista expresso performed well in Astoria, this would be a chance for localized marketing
-- The sales drop during mid-day hours revealed gaps in lunch offerings                                                                                                                                                      
+Hell’s Kitchen: has high revenue, we should try and adopt its strategy and make sure that our customer service remains excellent also monitor customer feedback to keep the store’s revenue growing.
+Morning: Is showing to be the most profitable time of the day across our stores, we could look at increasing our personnels and stock accordingly.
+Barista Espresso: Is our top selling product, we must make sure that we have enough stock and ensure marketing support so that its sales continue to increase.
+Astoria: Pride itself by brewed chai tea and dark chocolate, we could explore customer preference and see if we can make promotions on other products to increase their sales.
+Seasonality: Seasons like summer affect our sales as we have seen on our graph that Jan and February sales are very low, we could build marketing strategies to avoid these dips in our sales.
