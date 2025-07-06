@@ -40,5 +40,7 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 **Morning**: Is showing to be the most profitable time of the day across our stores, we could look at increasing our personnels and stock accordingly.
 
 **Barista Espresso**: Is our top selling product, we must make sure that we have enough stock and ensure marketing support so that its sales continue to increase.
+
 **Astoria**: Pride itself by brewed chai tea and dark chocolate, we could explore customer preference and see if we can make promotions on other products to increase their sales.
+
 **Seasonality**: Seasons like summer affect our sales as we have seen on our graph that Jan and February sales are very low, we could build marketing strategies to avoid these dips in our sales.
