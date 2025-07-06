@@ -1,13 +1,13 @@
 # Coffee-Shop-Sales-Analysis
+**This repository is a complete case study submission for my data analytics learning journey as an Aspiring Data Analyst, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation.**
 
 **Problem Statement**
 
 The store has just hired a new CEO, whose focus is on revenue, product improvement and growth, this analysis aims to uncover and unpack key insights from sales data to guide for better decision making.
 
-This project involves analyzing revenue across store locations, product detail, type, category, time of the day trends and monthly pattern. It includes actionable insights on how to improve sales on under-performing stores and recommendations to sustain growth in well performing ones. I used real-world data and tools to uncover business insights and present data-driven recommendations.
+As a data analyst my role is to help the CEO by analyzing revenue across store locations, product detail, type, category, time of the day trends and monthly pattern. I have also included actionable insights on how to improve sales on under-performing stores and recommendations to sustain growth in well performing ones. I used real-world data and tools to uncover business insights and present data-driven recommendations.
 The work includes raw data cleaning, SQL-based querying, visualizations using Excel and Canva, and structured planning via Miro.
 
-This repository is a complete case study submission for my data analytics learning journey as an Aspiring Data Analyst, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation.
 
 **Project Objectives:**
 - Which products generate the most revenue 
