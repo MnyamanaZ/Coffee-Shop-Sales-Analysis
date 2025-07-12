@@ -1,28 +1,32 @@
 # Coffee-Shop-Sales-Analysis
 **This repository is a complete case study submission for my data analytics learning journey as an Aspiring Data Analyst, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation.**
 
-**Problem Statement**
+## 📌 Problem Statement
 
-The store has just hired a new CEO, whose focus is on revenue, product improvement and growth, this analysis aims to uncover and unpack key insights from sales data to guide for better decision making.
+The store has recently hired a new CEO with a focus on revenue growth, product performance, and strategic decision-making. This analysis was conducted to uncover actionable insights from sales data to guide better business decisions.
 
-As a data analyst my role is to help the CEO by analyzing revenue across store locations, product detail, type, category, time of the day trends and monthly pattern. I have also included actionable insights on how to improve sales on under-performing stores and recommendations to sustain growth in well performing ones. I used real-world data and tools to uncover business insights and present data-driven recommendations.
-The work includes raw data cleaning, SQL-based querying, visualizations using Excel and Canva, and structured planning via Miro.
+As a data analyst, my role is to:
+- Analyze revenue performance across store locations
+- Identify sales patterns by product type and category
+- Understand time-based sales trends (time of day and season)
+- Deliver business recommendations based on data-driven insights
 
+## 🎯 Project Objectives
 
-**Project Objectives:**
 - Which products generate the most revenue 
 -  What time of day the store performs best 
 - Sales trends across products and time intervals 
 - Recommendations for improving sales performance 
 
-**Tools Used:**
+## 🛠️ Tools Used
+
 - Excel – for raw data cleaning, pivot tables, and visualizations
 - Snowflake SQL – for querying and analysis
 - Miro – for outlining the project planning
 - Canva – for building a business-style presentation
 - GitHub – for structuring, storing, and documenting the entire project
 
-**Project Structure**
+## 🗂️ Project Structure
 
 My work is saved in folders,below is a breakdown for each folder under the Coffee-Shop-Sales-Analysis Repository:
 
@@ -38,14 +42,18 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 
 [PRESENTATION](./Presentation/): Is in two formats png slides and pdf     
 
-**Recommendations**
+## 📊 Key Insights
 
-**Hell’s Kitchen**: has high revenue, we should try and adopt its strategy and make sure that our customer service remains excellent also monitor customer feedback to keep the store’s revenue growing.
+- **All store locations perform similarly** -with Hell’s Kitchen slightly ahead (34% of revenue).
+- **Barista Espresso** : Is the top-selling product across all stores (38% total share).
+- **Morning** : Is the busiest and most profitable time of day.
+- **Astoria** : Performs especially well in **Brewed Chai Tea** and **Hot Chocolate**.
+- **June**    : Is the peak month for sales, while **January and February (Summer)** are the lowest.
+- **Monday**  : Shows the highest daily sales (15%), while **Saturday** is the slowest (14%).
 
-**Morning**: Is showing to be the most profitable time of the day across our stores, we could look at increasing our personnels and stock accordingly.
+## 📘 Conclusion
+This case study demonstrates how data analytics can support business decision-making through well-structured analysis and storytelling. The ability to uncover trends, identify opportunities, and provide actionable recommendations is key in driving performance and growth in a retail environment.
 
-**Barista Espresso**: Is our top selling product, we must make sure that we have enough stock and ensure marketing support so that its sales continue to increase.
+📩 **Thank you for reviewing my work!**  
 
-**Astoria**: Pride itself by brewed chai tea and dark chocolate, we could explore localized marketing strategies tailored  for that region. We could also run promotions on other products to increase their sales.
 
-**Seasonality**: Seasons like summer affect our sales as we have seen on our graph that Jan and February sales are very low, we could build marketing strategies to avoid these dips in our sales.
