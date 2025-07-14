@@ -45,9 +45,9 @@ My work is saved in folders,below is a breakdown for each folder under the Coffe
 ## 📊 Key Insights
 
 - **All store locations perform similarly** -with Hell’s Kitchen slightly ahead (34% of revenue).
-- **Barista Espresso** : Is the top-selling product across all stores (38% total share).
+- **Barista Espresso** : Is the top-selling product across all stores contributing 38% total share.
 - **Morning** : Is the busiest and most profitable time of day.
-- **Astoria** : Performs especially well in **Brewed Chai Tea** and **Hot Chocolate**.
+- **Astoria Store** : Shows strong performance in Brewed Chai Tea and Hot Chocolate, and performs relatively better during the afternoon compared to the other branches.
 - **June**    : Is the peak month for sales, while **January and February (Summer)** are the lowest.
 - **Monday**  : Shows the highest daily sales (15%), while **Saturday** is the slowest (14%).
 
